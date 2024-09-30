@@ -1,1 +1,1 @@
-console.log('ROULETTE LOADED');
+console.log('Roulette is totally safe.');
